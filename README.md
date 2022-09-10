@@ -1,23 +1,46 @@
-<h1 align="center">Hi :v:, I am Simone Alghisi</h1>
+<h1 align="center">Hi there :v:, I am Simone Alghisi</h1>
 
-### About
+<p align='center'>
+  Master's student of Artificial Intelligence Systems at the University of Trento
+</p>
 
-- Bachelor's Degree in Computer Science at the University of Trento
-- Master's student of Artificial Intelligence Systems at the University of Trento
+<p align='center'>
+  <a href="https://www.linkedin.com/in/simone-alghisi/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img>
+  </a>&nbsp;&nbsp;
+  <a href="https://simone-alghisi.github.io/">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></img>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/alghisius/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img>
+  </a> 
+</p>
 
-### Contacts
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=simone-alghisi&show_icons=true&count_private=true&theme=tokyonight" height=200></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simone-alghisi&count_private=true&theme=tokyonight&hide=jupyter%20notebook,html,css&layout=compact&langs_count=6" height=200></a>
+</p>
 
-<!--
-**Simone-Alghisi/Simone-Alghisi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h3>About 💬</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Bachelor's Degree in **Computer Science** at the University of Trento
+- Master's student of **Artificial Intelligence Systems** at the University of Trento
+- Following the *Methodologies & Applications* curriculum, and **Computer Vision** specialising path
+
+
+<details>
+  <summary><h3>Contacts 📫</h3></summary>
+  How to reach me:
+  <p align='center'>
+    <a href="mailto:alghisius.simone@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img>
+    </a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/simone-alghisi/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img>
+    </a>&nbsp;&nbsp;
+    <a href="https://t.me/Alghisius">
+      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></img>
+    </a>
+  </p>
+</details>
