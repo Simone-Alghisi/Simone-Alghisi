@@ -1,4 +1,11 @@
-### Hi there 👋
+<h1 align="center">Hi :v:, I am Simone Alghisi</h1>
+
+### About
+
+- Bachelor's Degree in Computer Science at the University of Trento
+- Master's student of Artificial Intelligence Systems at the University of Trento
+
+### Contacts
 
 <!--
 **Simone-Alghisi/Simone-Alghisi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
