@@ -17,8 +17,8 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=simone-alghisi&show_icons=true&count_private=true&theme=tokyonight" height=200></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simone-alghisi&count_private=true&theme=tokyonight&hide=jupyter%20notebook,html,css&layout=compact&langs_count=6" height=200></a>
+  <a href="#"><img src="https://github-readme-stats-navy-kappa.vercel.app/api?username=simone-alghisi&show_icons=true&count_private=true&theme=tokyonight" height=200></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://github-readme-stats-navy-kappa.vercel.app/api/top-langs/?username=simone-alghisi&count_private=true&theme=tokyonight&hide=jupyter%20notebook,html,css&layout=compact&langs_count=6" height=200></a>
 </p>
 
 
