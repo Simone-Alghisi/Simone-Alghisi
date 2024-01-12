@@ -1,7 +1,7 @@
 <h1 align="center">Hi there :v:, I am Simone Alghisi</h1>
 
 <p align='center'>
-  Master's student of Artificial Intelligence Systems at the University of Trento
+  PhD student of Information Engineering and Computer Science at the University of Trento
 </p>
 
 <p align='center'>
