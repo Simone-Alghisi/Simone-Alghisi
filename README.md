@@ -24,9 +24,9 @@
 
 <h3>About 💬</h3>
 
-- Bachelor's Degree in **Computer Science** at the University of Trento
-- Master's student of **Artificial Intelligence Systems** at the University of Trento
-- Following the *Methodologies & Applications* curriculum, and **Computer Vision** specialisation path
+- *PhD Student* in **Information Engineering and Computer Science** (Natural Language Processing) at the University of Trento
+- *Master's Degree* in **Artificial Intelligence Systems** (Computer Vision and Natural Language Processing) at the University of Trento
+- *Bachelor's Degree* in **Computer Science** at the University of Trento
 
 
 <details>
